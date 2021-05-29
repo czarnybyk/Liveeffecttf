@@ -1,0 +1,44 @@
+{
+  "buildFiles": [
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\parselib\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "iolib-Release-x86": {
+      "artifactName": "iolib",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" iolib",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\\libiolib.a",
+      "runtimeFiles": []
+    },
+    "drumthumper-Release-x86": {
+      "artifactName": "drumthumper",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" drumthumper",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\build\\intermediates\\cmake\\release\\obj\\x86\\libdrumthumper.so",
+      "runtimeFiles": []
+    },
+    "parselib-Release-x86": {
+      "artifactName": "parselib",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" parselib",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\\libparselib.a",
+      "runtimeFiles": []
+    },
+    "oboe-Release-x86": {
+      "artifactName": "oboe",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\" oboe",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\drumthumper\\.cxx\\cmake\\release\\x86\\oboe-bin\\liboboe.a",
+      "runtimeFiles": []
+    }
+  }
+}

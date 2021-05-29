@@ -1,0 +1,11 @@
+com/google/oboe/samples/liveEffect/MainActivity.java
+ com.google.oboe.samples.liveEffect.MainActivity
+ com.google.oboe.samples.liveEffect.MainActivity$1
+ com.google.oboe.samples.liveEffect.MainActivity$2
+ com.google.oboe.samples.liveEffect.MainActivity$3
+ com.google.oboe.samples.liveEffect.MainActivity$4
+ com.google.oboe.samples.liveEffect.MainActivity$5
+com/google/oboe/samples/liveEffect/LiveEffectEngine.java
+ com.google.oboe.samples.liveEffect.LiveEffectEngine
+com/google/oboe/samples/liveEffect/BuildConfig.java
+ com.google.oboe.samples.liveEffect.BuildConfig

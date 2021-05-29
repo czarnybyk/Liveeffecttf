@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "oboe-Release-x86_64": {
+      "artifactName": "oboe",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\.cxx\\cmake\\release\\x86_64\" oboe",
+      "abi": "x86_64",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\.cxx\\cmake\\release\\x86_64\\oboe-bin\\liboboe.a",
+      "runtimeFiles": []
+    },
+    "liveEffect-Release-x86_64": {
+      "artifactName": "liveEffect",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\.cxx\\cmake\\release\\x86_64\" liveEffect",
+      "abi": "x86_64",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\LiveEffect\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libliveEffect.so",
+      "runtimeFiles": []
+    }
+  }
+}

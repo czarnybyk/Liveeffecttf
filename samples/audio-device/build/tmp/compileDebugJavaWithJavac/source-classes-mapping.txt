@@ -1,0 +1,11 @@
+com/google/oboe/samples/audio_device/AudioDeviceAdapter.java
+ com.google.oboe.samples.audio_device.AudioDeviceAdapter
+com/google/oboe/samples/audio_device/AudioDeviceListEntry.java
+ com.google.oboe.samples.audio_device.AudioDeviceListEntry
+com/google/oboe/samples/audio_device/AudioDeviceSpinner.java
+ com.google.oboe.samples.audio_device.AudioDeviceSpinner
+ com.google.oboe.samples.audio_device.AudioDeviceSpinner$1
+com/google/oboe/samples/audio_device/AudioDeviceInfoConverter.java
+ com.google.oboe.samples.audio_device.AudioDeviceInfoConverter
+com/google/oboe/samples/audio_device/BuildConfig.java
+ com.google.oboe.samples.audio_device.BuildConfig

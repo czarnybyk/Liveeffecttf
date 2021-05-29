@@ -1,0 +1,16 @@
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/parselib.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/install/local.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/install.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/iolib.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/drumthumper.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/list_install_components.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/CMakeFiles/install/strip.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/oboe.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/install/local.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/install.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/edit_cache.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/rebuild_cache.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/list_install_components.dir
+C:/Users/laura/AndroidStudioProjects/oboe1/samples/drumthumper/.cxx/cmake/release/x86_64/oboe-bin/CMakeFiles/install/strip.dir

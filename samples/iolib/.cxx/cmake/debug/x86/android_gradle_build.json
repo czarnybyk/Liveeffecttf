@@ -1,0 +1,57 @@
+{
+  "stringTable": {
+    "0": "C:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=C:/Users/laura/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/laura/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/src/main/cpp/../../../../parselib/src/main/cpp -IC:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/src/main/cpp/../../../../../include -IC:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/src/main/cpp/../../../../../src/flowgraph -IC:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/src/main/cpp -IC:/Users/laura/AndroidStudioProjects/oboe1/samples/iolib/src/main/cpp/../../../../shared -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "iolib-Debug-x86": {
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\.cxx\\cmake\\debug\\x86\" iolib",
+      "buildType": "debug",
+      "toolchain": "288217393",
+      "abi": "x86",
+      "artifactName": "iolib",
+      "files": [
+        {
+          "src": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\player\\SampleSource.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\player\\SampleBuffer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\player\\OneShotSampleSource.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\src\\main\\cpp\\player\\SimpleMultiPlayer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\iolib\\.cxx\\cmake\\debug\\x86\\libiolib.a"
+    }
+  },
+  "toolchains": {
+    "288217393": {
+      "cppCompilerExecutable": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

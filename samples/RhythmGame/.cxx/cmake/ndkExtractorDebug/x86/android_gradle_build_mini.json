@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\CMakeLists.txt",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\.cxx\\cmake\\ndkExtractorDebug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\.cxx\\cmake\\ndkExtractorDebug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "oboe-Debug-x86": {
+      "artifactName": "oboe",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\.cxx\\cmake\\ndkExtractorDebug\\x86\" oboe",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\.cxx\\cmake\\ndkExtractorDebug\\x86\\oboe-bin\\liboboe.a",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\laura\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\.cxx\\cmake\\ndkExtractorDebug\\x86\" native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\laura\\AndroidStudioProjects\\oboe1\\samples\\RhythmGame\\build\\intermediates\\cmake\\ndkExtractorDebug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

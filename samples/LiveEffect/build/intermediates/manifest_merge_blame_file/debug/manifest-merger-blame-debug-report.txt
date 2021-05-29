@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.oboe.samples.liveeffect"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:5:5-88
+12        android:name="android.hardware.microphone"
+12-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:5:19-61
+13        android:required="true" />
+13-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:5:62-85
+14    <uses-feature
+14-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:6:5-90
+15        android:name="android.hardware.audio.output"
+15-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:6:19-63
+16        android:required="true" />
+16-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:6:64-87
+17
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:7:5-71
+18-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:7:22-68
+19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+19-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:8:5-80
+19-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:8:22-77
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:9:5-80
+20-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:9:22-78
+21
+22    <application
+22-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:10:5-26:19
+23        android:allowBackup="false"
+23-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:11:9-36
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.0.0-rc02] C:\Users\laura\.gradle\caches\transforms-2\files-2.1\cbd72adbd2a75717d01851951de2aded\core-1.0.0-rc02\AndroidManifest.xml:22:18-86
+25        android:debuggable="true"
+26        android:fullBackupContent="false"
+26-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:12:9-42
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:14:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:15:9-41
+29        android:supportsRtl="true"
+29-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:13:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:16:9-40
+32        <activity
+32-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:17:7-25:18
+33            android:name="com.google.oboe.samples.liveEffect.MainActivity"
+33-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:18:11-73
+34            android:label="@string/app_name"
+34-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:19:11-43
+35            android:screenOrientation="portrait" >
+35-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:20:11-47
+36            <intent-filter>
+36-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:21:9-24:25
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:22:11-63
+37-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:22:19-60
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:23:11-71
+39-->C:\Users\laura\AndroidStudioProjects\oboe1\samples\LiveEffect\src\main\AndroidManifest.xml:23:21-68
+40            </intent-filter>
+41        </activity>
+42    </application>
+43
+44</manifest>
